@@ -11,3 +11,4 @@ double FtoC(double temp_f)
    double  temp_c; 
    temp_c = (5.0 * (temp_f – 32.0)) / 9.0; return temp_c; 
 }
+//수정
